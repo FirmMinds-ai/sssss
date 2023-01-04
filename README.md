@@ -4,8 +4,8 @@
 
 ##### Tools & Softwares :
 
-***Python 
-***Numpy
-***Pandas 
-***Sklearn
-***Beautiful Soup 
+*** Python 
+*** Numpy
+*** Pandas 
+*** Sklearn
+*** Beautiful Soup 
